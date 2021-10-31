@@ -1,5 +1,6 @@
-hello-world
-===========
+hello-world-Submarine
+=====================
 
-tutorial
- this is a test smeg head
+Cthulu & Coffee, oh and sharp things, lets not forget the sharp things.
+
+Dammit no stabbity causing comments yet, ahh well.
